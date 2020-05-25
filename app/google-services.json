@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922986201402",
+    "firebase_url": "https://tinytap-index.firebaseio.com",
+    "project_id": "tinytap-index",
+    "storage_bucket": "tinytap-index.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922986201402:android:de785f75e02ee685ad9003",
+        "android_client_info": {
+          "package_name": "net.kazav.tinytapindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922986201402-teg5aaq5hochbfg6v5bua1q5likfhh1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.kazav.tinytapindex",
+            "certificate_hash": "0e11cc55144dd2cfd90561e0ee9bba8dbdaaef96"
+          }
+        },
+        {
+          "client_id": "922986201402-7jimifjmgb4bnvlfrc6kla6mrsqirbnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6XeD2BRMxsI7kvvWe1jplzCcHJ5UUeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922986201402-7jimifjmgb4bnvlfrc6kla6mrsqirbnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
